@@ -13,3 +13,7 @@
 你可以在這裡找到 R.java 檔案
 
 > ./app/build/generated/source/r/debug/`your/packagename/name`/R.java
+
+因為 Android Studio 資料夾顯示方式預設為 `Android`，要選擇 `Project` 才可以看到 `app/build/...` 的資料夾目錄結構
+
+![Android Studio 選擇專案資料夾顯示方式](images/Question-Other-R-Java-File-Project.png)
