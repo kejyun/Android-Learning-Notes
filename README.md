@@ -22,3 +22,13 @@ Email : kejyun@gmail.com
 > 日期：2015-03-03
 
 這是我會標注的環境說明，供大家參考用，如果環境不同就趕快離開去找其他的解法吧！
+
+
+## 所有 KeJyun 著作
+* [High Scaling Websites Structure Learning Notes 大型網站架構學習筆記](http://kejyuntw.gitbooks.io/high-scaling-websites-structure-learning-notes/)
+* [Laravel 4 學習筆記](http://kejyuntw.gitbooks.io/laravel-4-learning-notes/)
+* [Laravel 5 學習筆記](http://kejyuntw.gitbooks.io/laravel-4-learning-notes/)
+* [SEO 學習筆記](http://kejyuntw.gitbooks.io/seo-learning-notes/)
+* [Web Developer Learning Resource 網頁開發學習資源](http://kejyuntw.gitbooks.io/web-developer-learning-resource/)
+* [Mac OSX 新手入門](http://kejyuntw.gitbooks.io/mac-osx-for-newbie/)
+* [Ruby on Rails 學習筆記](http://kejyuntw.gitbooks.io/ruby-on-rails-learning-note/)
