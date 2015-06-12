@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [介紹](README.md)
 * [常見問題](question/Question-README.md)
     * [安裝](question/install/Question-Install-README.md)
         * [HAX is not installed](question/install/Question-Install-HAX.md)
