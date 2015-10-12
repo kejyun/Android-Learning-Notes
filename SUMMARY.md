@@ -9,4 +9,4 @@
         * [R.java 在哪裡](question/other/Question-Other-R-Java-File.md)
 * [學習資源](resource/Resource-README.md)
     * [教學網站](resource/Resource-Learning-Sites.md)
-    
+    * [教學影片](resource/Resource-Learning-Video.md)
